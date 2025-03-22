@@ -1,5 +1,5 @@
 # MCUT（ICME2025)
-Coordinated Uni-modal Assistance for Enhancing Multi-modal Learning
+Paper Title: Coordinated Uni-modal Assistance for Enhancing Multi-modal Learning
 ![MCUT Framework](https://github.com/njustkmg/ICME25-MCUT/blob/main/MCUT_Framework.png)
 # Data Preparation
 
