@@ -1,7 +1,6 @@
-# MCUT
-Boosting Multi-modal Learning via Coordinative Uni-modal Optimization
-XXXX
-
+# MCUT（ICME2025)
+Coordinated Uni-modal Assistance for Enhancing Multi-modal Learning
+![MCUT Framework](https://github.com/njustkmg/ICME25-MCUT/blob/main/MCUT_Framework.png)
 # Data Preparation
 
 You can download the corresponding raw data from the link below and prepare the data according the instructions of the cited paper.
